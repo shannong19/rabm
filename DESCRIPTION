@@ -1,0 +1,13 @@
+Package: rabm
+Type: Package
+Title: Agent-based model for R
+Version: 0.1.0
+Author: Shannon Gallagher
+Maintainer: sgallagh@stat.cmu.edu
+Description: Use agent-based models to simulate the spread of diseases
+License: What license is it under?
+LazyData: TRUE
+Imports:
+    Rcpp (>= 0.12.6)
+LinkingTo:
+    Rcpp
